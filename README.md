@@ -12,8 +12,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Place-Calicut%2C%20Kerala-blue?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎂%20Age-14-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏫%20Class-9-blue?style=for-the-badge"/>
 </p>
 
 <h3 align="center">🚀 Developer | 🤖 Bot Creator | 💻 Tech Enthusiast</h3>
